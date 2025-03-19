@@ -52,3 +52,7 @@
     display: block;
     padding: 10px;
  }
+
+ label{
+   font-size: 0.9em;
+ }

@@ -40,13 +40,29 @@ section#login > section#formulario{
     }
     
     section#login > section#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
     
     section#login > section#formulario{
-        float: right;
+        float: left;
         width: 50%;
     }
+
+    section#formulario > h1{
+        font-size: 2em;
+    }
+
+    section#formulario > p{
+        font-size: 1.2em;
+}
+}
+
+section#formulario > h1{
+    text-align: center;
+}
+
+section#formulario > p{
+    font-size: 0.8em;
 }
